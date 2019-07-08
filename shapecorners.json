@@ -1,0 +1,35 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "therealestrob@gmail.com",
+                "Name": "Rob"
+            },
+            {
+                "Github": "https://github.com/khanhas",
+                "Name": "khanhas"
+            }
+        ],
+        "Category": "Appearance",
+        "Dependencies": [
+        ],
+        "Description": "Effect rounds/chisels corners of your windows.",
+        "EnabledByDefault": true,
+        "Icon": "",
+        "Id": "kwin4_effect_shapecorners",
+        "License": "GPL",
+        "Name": "ShapeCorners_Fork",
+        "ServiceTypes": [
+            "KWin/Effect"
+        ],
+        "Version": "git"
+    },
+    "org.kde.kwin.effect": {
+        "video": "",
+        "exclusiveGroup": "",
+        "enabledByDefaultMethod": true
+    },
+    "X-KDE-Ordering": "5",
+    "X-Plasma-API": "",
+    "X-Plasma-MainScript": ""
+}
